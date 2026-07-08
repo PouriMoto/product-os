@@ -1,4 +1,15 @@
-🚀 Product OS v1
+---
+dir: rtl
+lang: fa
+---
+
+# 🚀 Product OS v1
+
+### *چارچوبی برای Vibe Coding و توسعه هم‌راه با هوش مصنوعی*
+
+...
+
+# 🚀 Product OS v1
 
 چارچوبی برای Vibe Coding و توسعه هم‌راه با هوش مصنوعی
 
